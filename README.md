@@ -14,6 +14,8 @@ Book download page: https://leanpub.com/numsense
 
 
 
+
+
 Sign up below to get bite-sized tutorials delivered to your inbox:
 
 [![Free Data Science Tutorials](https://annalyzin.files.wordpress.com/2016/08/sign-up-button-transparent-bg-and-cropped.png?w=340&h=55)](http://eepurl.com/cbVFY1)
