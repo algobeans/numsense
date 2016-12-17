@@ -8,7 +8,14 @@ Data sources are cited in References.md.
 
 Book download page: https://leanpub.com/numsense
 
-<a href="https://leanpub.com/numsense"><img src="https://annalyzin.files.wordpress.com/2016/12/title_page.png" width="200"></a>
+<a href="https://leanpub.com/numsense"><img src="https://annalyzin.files.wordpress.com/2016/12/title_page.png" width="250"></a>
 
 
 
+
+
+Sign up below to get bite-sized tutorials delivered to your inbox:
+
+[![Free Data Science Tutorials](https://annalyzin.files.wordpress.com/2016/08/sign-up-button-transparent-bg-and-cropped.png?w=340&h=55)](http://eepurl.com/cbVFY1)
+
+*Copyright © 2015-Present Algobeans.com. All rights reserved. Be a cool bean*
