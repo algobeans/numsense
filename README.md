@@ -8,9 +8,9 @@ Data sources are cited in [References.md](https://github.com/algobeans/numsense/
 
 Book download page: https://leanpub.com/numsense
 
-<a href="https://leanpub.com/numsense"><img style="border:1px solid black;" src="https://annalyzin.files.wordpress.com/2016/12/title_page.png" width="250"></a>
+<a href="https://leanpub.com/numsense" target="_blank"><img src="https://annalyzin.files.wordpress.com/2016/12/title_page-outlined.png" width="250"></a>
 
-<p>
+<br><br>
 
 Sign up below to get bite-sized tutorials delivered to your inbox:
 
