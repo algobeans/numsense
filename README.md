@@ -6,9 +6,9 @@ Scripts include explanatory comments for a layman to understand.
 
 Data sources are cited in [References.md](https://github.com/algobeans/numsense/blob/master/References.md).
 
-Book download page: https://leanpub.com/numsense
+Book download page: http://getbook.at/numsense
 
-<a href="https://leanpub.com/numsense" target="_blank"><img src="https://annalyzin.files.wordpress.com/2016/12/title_page-outlined.png" width="250"></a>
+<a href="http://getbook.at/numsense" target="_blank"><img src="https://annalyzin.files.wordpress.com/2016/12/title_page-outlined.png" width="250"></a>
 
 <br><br>
 
